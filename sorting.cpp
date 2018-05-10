@@ -21,4 +21,4 @@ int main()
 	{
 		cout<<a[i];
 	}
-}
+}//Sumiran 106117101
