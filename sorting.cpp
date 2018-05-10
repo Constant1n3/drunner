@@ -21,4 +21,4 @@ int main()
 	{
 		cout<<a[i];
 	}
-}
+}//Waghmare 106117101
