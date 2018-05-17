@@ -1,0 +1,56 @@
+html{
+	background-color: lightgreen;
+}
+body{
+	font-family: 'Kavivanar', sans-serif;
+	
+	color: #ab0000;
+	text-shadow: 2px 3px 1px grey;
+	width: 990px;
+	  margin: 0 auto;
+	  padding: 0 20px 20px 20px;
+	  border: 5px solid black;
+	  text-align: center;
+}	  
+#Ar{
+	text-align: left;
+
+}
+#Bp{
+	text-align: right;
+}
+#Dg{
+	text-align: right;
+}
+a:hover{
+	color: black;
+}
+h4{
+	
+
+    font-family: 'Montserrat', sans-serif;
+	margin: 0;
+ 	padding: 20px 0;    
+ 	color: #00539F;
+ 	text-shadow: 1px 2px 2px black;
+
+}
+p:hover{
+	color:black;
+}
+h3{
+	color: black;
+}
+footer{
+	text-align: center;
+}
+#poo{
+	text-align: center;
+}
+#hi3{
+	text-align: center;
+}
+img {
+  display: block;
+  margin: 0 auto;
+}
